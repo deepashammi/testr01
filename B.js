@@ -1,4 +1,4 @@
-// JavaScript source code
+// JavaScript source code changed to B
 <html>
     <head></head>
     <form name="calculator">
