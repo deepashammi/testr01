@@ -1,0 +1,8 @@
+username656
+deepashammi001@domain.com
+happy@864
+
+
+git remote set-url origin "https://username656:happy@864@github.com/username656/testCNC.git"
+
+
