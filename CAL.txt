@@ -1,0 +1,18 @@
+Defect 1: CODEALIKE-2924 test cases linked with an  E2E CODEALIKE-3223
+Defect 2: CODEALIKE-2922 test cases linked with an  E2E CODEALIKE-3152
+
+Already linked the test cases with the defect but while execution , the executor didnt execute for defects. where as for defect 3 he picked and moved.
+
+Defect 3: CODEALIKE-2923 test cases linked with an E2E CODEALIKE-3267
+
+
+CODEALIKE-2872 -- Reviewed
+CODEALIKE-2874-- comment says ignore this defect
+CODEALIKE-3045-- blocked E2E due to defect.(CODEALIKE-2874)
+
+
+
+CODEALIKE-3146
+
+
+https://2019-3-0-testing-45951ce-b2483.jivelandia.com
